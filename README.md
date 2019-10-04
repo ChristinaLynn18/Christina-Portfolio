@@ -23,7 +23,7 @@ See all of my C# Codes here --> [My C# Codes](_________)
 ----------------------------------------------------------------------------------------------------------------------------
 ## BUDGET ANALYSIS TOOL
 
-##### [View Code](https://github.com/pontesda/Portfolio/blob/master/budget.cpp)
+##### [View Code](https://github.com/ChristinaLynn18/Christina-Portfolio/blob/master/budget.cpp)
 
 A program that creates and writes to a file named “Budget.txt”
 The program asks the user to enter the amount that he or she has budgeted for a month.  
@@ -54,11 +54,11 @@ Includes input validation to make sure the user selects a valid menu option and 
 ----------------------------------------------------------------------------------------------------------------------------
 ## SQUARE DISPLAY
 
-##### [View Code]()
+##### [View Code](https://github.com/ChristinaLynn18/Christina-Portfolio/blob/master/square.cpp)
 
 A program that asks the user for a positive integer no greater than 15. The program then displays a square on the screen using the character ‘X’. 
 The number entered by the user will be the length of each side of the square.
-This program ends after 4 attempts and uses proper data validation tools.
+This program uses proper data validation tools and doesn't accept incorrect values.
 
 ----------------------------------------------------------------------------------------------------------------------------
 ## SOFTWARE SALES
@@ -93,8 +93,8 @@ A program that converts Celsius temperatures to Fahrenheit temperatures.
 A program that asks the user for an angle, entered in radians. The program then displays the sine, cosine, and tangent of the angle. The output is displayed in fixed-point notation, rounded to four decimal places of precision.
 
 ----------------------------------------------------------------------------------------------------------------------------
-## COOKIE RECIPE CALCULATOR
+## PERCENTAGE OF MALES/FEMALES IN A CLASS
 
 ##### [View Code]()
 
-The recipe makes 48 cookies with this amount of the ingredients. This program asks the user how many cookies he or she wants to make, and then displays the number of cups of each ingredient for the specified number of cookies.  The ingredients and amounts are in table form with 2 decimal points of precision and the decimal point always appearing. 
+Write a program that asks the user for the number of males and the number of females registered in a class. The program should display the percentage of males and females in the class.
