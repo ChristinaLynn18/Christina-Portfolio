@@ -1,37 +1,100 @@
-## Welcome to GitHub Pages
+# My C++ Coding Projects
 
-You can use the [editor on GitHub](https://github.com/ChristinaLynn18/Christina-Portfolio/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Thank you for visiting my portfolio! 
 
-### Markdown
+My name is Christina Schembri, and I am currently studying Computer Science at Fairleigh Dickinson University with a concentration in Cybersecurity.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+My goal is to further my knowledge of software development, as well as strengthen my leadership skills in a professional environment that promotes teamwork through thought-provoking challenges.
 
-```markdown
-Syntax highlighted code block
+Below you will find my most current projects that I have created in the C++ Language. 
 
-# Header 1
-## Header 2
-### Header 3
+The purpose of this page is to showcase my skills while collaborating with other developers around the world.
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+-Christina Schembri
 
-**Bold** and _Italic_ and `Code` text
+[LinkedIn Profile](https://www.linkedin.com/in/christina-schembri/)
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+See all of my C# Codes here --> [My C# Codes](_________)
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ChristinaLynn18/Christina-Portfolio/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+----------------------------------------------------------------------------------------------------------------------------
+## BUDGET ANALYSIS TOOL
 
-### Support or Contact
+##### [View Code](https://github.com/pontesda/Portfolio/blob/master/budget.cpp)
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+A program that creates and writes to a file named “Budget.txt”
+The program asks the user to enter the amount that he or she has budgeted for a month.  
+A loop then prompts the user to enter each of his or her expenses for the month and keep a running total.  
+The program writes both the expense name and corresponding expense, along with how much he or she is over-budget or under-budget to the file.
+
+----------------------------------------------------------------------------------------------------------------------------
+## MATH TUTOR
+
+##### [View Code]()
+
+A program that can be used as a math tutor for a young student. The program displays two random numbers to be added. The program then pauses while the student works on the problem. When the student is ready to check the answer, he or she can press a key and the program will display the correct solution.
+
+----------------------------------------------------------------------------------------------------------------------------
+## GEOMETRY CALCULATOR
+
+##### [View Code]()
+
+A program  that displays the following menu:
+Geometry Calculator
+1.	Calculate the Area of a Circle
+2.	Calculate the Area of a Rectangle
+3.	Calculate the Area of a Triangle
+4.	Quit
+
+Includes input validation to make sure the user selects a valid menu option and does not input negative numbers for the measurements.
+
+----------------------------------------------------------------------------------------------------------------------------
+## SQUARE DISPLAY
+
+##### [View Code]()
+
+A program that asks the user for a positive integer no greater than 15. The program then displays a square on the screen using the character ‘X’. 
+The number entered by the user will be the length of each side of the square.
+This program ends after 4 attempts and uses proper data validation tools.
+
+----------------------------------------------------------------------------------------------------------------------------
+## SOFTWARE SALES
+
+##### [View Code]()
+
+A software company sells a package that retails for $99. Quantity discounts are given at different rates.
+
+This program asks for the number of units sold and computes the total cost of the purchase, displays the discount and determines how many more units are required to be bought to apply the next discount.
+
+----------------------------------------------------------------------------------------------------------------------------
+## SPECTRAL ANALYSIS
+
+##### [View Code]()
+
+If a scientist knows the wavelength of an electromagnetic wave, he or she can determine what type of radiation it is. 
+This program asks for the wavelength of an electromagnetic wave in meters and then displays 
+what that wave is.
+
+----------------------------------------------------------------------------------------------------------------------------
+## CELSIUS TO FAHRENHEIT
+
+##### [View Code]()
+
+A program that converts Celsius temperatures to Fahrenheit temperatures.
+
+----------------------------------------------------------------------------------------------------------------------------
+## ANGLE CALCULATOR
+
+##### [View Code]()
+
+A program that asks the user for an angle, entered in radians. The program then displays the sine, cosine, and tangent of the angle. The output is displayed in fixed-point notation, rounded to four decimal places of precision.
+
+----------------------------------------------------------------------------------------------------------------------------
+## COOKIE RECIPE CALCULATOR
+
+##### [View Code]()
+
+The recipe makes 48 cookies with this amount of the ingredients. This program asks the user how many cookies he or she wants to make, and then displays the number of cups of each ingredient for the specified number of cookies.  The ingredients and amounts are in table form with 2 decimal points of precision and the decimal point always appearing. 
